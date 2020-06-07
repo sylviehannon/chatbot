@@ -2,8 +2,8 @@
 
 Texte introductif
 
-1. [Définitions](definitions.md)
-2. Historique
+1. [Définition](definitions.md)
+2. [Historique](historique.md)
 3. Applications
       1. Commerciales
       2. Médicales

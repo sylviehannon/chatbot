@@ -4,7 +4,7 @@ Dans le cadre d'une recherche concernant les **chatbots** j'ai constitué un dos
 
 > Selon Wikipédia[^1], *un chatbot, aussi nommé dialogueur2 ou agent conversationnel, est un agent qui dialogue avec un utilisateur.*
 
-[^1] : COLLECTIF. « Chatbot » [en ligne]. In *Wikipédia*. Mis à jour le 19 mai 2020 [consulté le 26 mai 2020]. Disponible sur le Web : <[https://fr.wikipedia.org/wiki/Chatbot](https://fr.wikipedia.org/wiki/Chatbot/)>
+[^1] : COLLECTIF. « Chatbot » [en ligne]. In *Wikipédia*. Mis à jour le 19 mai 2020 [consulté le 26 mai 2020]. Disponible sur le Web : <[https://fr.wikipedia.org/wiki/Chatbot](https://fr.wikipedia.org/wiki/Chatbot)>
 
 Bonne navigation !
 

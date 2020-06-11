@@ -12,7 +12,8 @@ Bonne navigation !
 
 1. [Définition](definitions.md)
 2. [Historique](historique.md)
-3. [Applications](applications.md)
+3. [Fonctionnement](fonctionnement.md)
+4. [Applications](applications.md)
       1. [Commerciales](acommerciales.md)
       2. [Médicales](amedicales.md)
       3. [Fictionnelles](afictions.md)

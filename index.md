@@ -2,6 +2,10 @@
 
 Dans le cadre d'une recherche concernant les **chatbots** j'ai constitué un dossier documentaire proposant une multitude de sources offrant une vue d'ensemble sur cette technologie. Vous trouverez-ci dessous un rapide sommaire des différents points abordés dans ce dossier. Des screenshots vous offriront un aperçu des documents sélectionnés ou des points que j'ai jugés intéressants, tous référencés et cliquables pour plus de facilité.
 
+> Selon Wikipédia[^1], *un chatbot, aussi nommé dialogueur2 ou agent conversationnel, est un agent qui dialogue avec un utilisateur.*
+
+[^1] : COLLECTIF. « Chatbot » [en ligne]. In *Wikipédia*. Mis à jour le 19 mai 2020 [consulté le 26 mai 2020]. Disponible sur le Web : <[https://fr.wikipedia.org/wiki/Chatbot](https://fr.wikipedia.org/wiki/Chatbot/)>
+
 Bonne navigation !
 
 ### Sommaire
@@ -13,3 +17,5 @@ Bonne navigation !
       2. Médicales
       3. Fictionnelles
 4. Pièges et "bonnes" pratiques
+
+

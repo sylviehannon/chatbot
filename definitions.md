@@ -1,3 +1,5 @@
+([Retour à l'accueil](https://sylviehannon.github.io/chatbot/))
+
 ## Les chatbots : définition
 
 [![Image](lesimages/Def2.png)](https://www.definitions-marketing.com/definition/chatbot/)

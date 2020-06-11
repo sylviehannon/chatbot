@@ -1,12 +1,15 @@
 ([Retour à l'accueil](https://sylviehannon.github.io/chatbot/))
 1. **Définitions**
 2. [Historique](historique.md)
-3. [Applications](applications.md)
+3. [Fonctionnement](fonctionnement.md)
+4. [Applications](applications.md)
       1. [Commerciales](acommerciales.md)
       2. [Médicales](amedicales.md)
       3. [Fictionnelles](afictions.md)
 
 ## Les chatbots : définitions
+
+Vous trouverez ici quelques définitions sur ce qu'est un **chatbot**.
 
 [![Image](lesimages/Def2.png)](https://www.definitions-marketing.com/definition/chatbot/)
 BATHELOT, Bertrand. « Chatbot » [en ligne]. In *Définitions marketing*. Mis à jour le 20 janvier 2020 [consulté le 26 mai 2020]. Disponible sur le Web : <[https://www.definitions-marketing.com/definition/chatbot/](https://www.definitions-marketing.com/definition/chatbot/)>

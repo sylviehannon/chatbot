@@ -12,10 +12,7 @@ Bonne navigation !
 
 1. [Définition](definitions.md)
 2. [Historique](historique.md)
-3. Applications
-      1. Commerciales
-      2. Médicales
-      3. Fictionnelles
-4. Pièges et "bonnes" pratiques
-
-
+3. [Applications](applications.md)
+      1. [Commerciales](acommerciales.md)
+      2. [Médicales](amedicales.md)
+      3. [Fictionnelles](afictions.md)

@@ -10,7 +10,7 @@ Bonne navigation !
 
 ### Sommaire
 
-1. [Définition](definitions.md)
+1. [Définitions](definitions.md)
 2. [Historique](historique.md)
 3. [Fonctionnement](fonctionnement.md)
 4. [Applications](applications.md)

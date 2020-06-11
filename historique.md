@@ -14,6 +14,14 @@ Vous trouverez ici des références concernant l'histoire des chatbots, des prem
 [![Image](lesimages/Histo1.png)](http://www.mychatbotagency.com/blog/histoire-chatbots/)
 [![Image](lesimages/Histo2.png)](http://www.mychatbotagency.com/blog/histoire-chatbots/)
 [![Image](lesimages/Histo3.png)](http://www.mychatbotagency.com/blog/histoire-chatbots/)
-« L'Histoire des Chatbots » [en ligne]. In *My chatbot agency*. Publié le 26 octobre 2018 [consulté le 27 mai 2020]. Disponible sur le Web : <[http://www.mychatbotagency.com/blog/histoire-chatbots/](http://www.mychatbotagency.com/blog/histoire-chatbots/)>
+MY CHATBOT AGENCY « L'Histoire des Chatbots » [en ligne]. In *My chatbot agency*. Publié le 26 octobre 2018 [consulté le 27 mai 2020]. Disponible sur le Web : <[http://www.mychatbotagency.com/blog/histoire-chatbots/](http://www.mychatbotagency.com/blog/histoire-chatbots/)>
 
 ---
+
+[![Image](lesimages/Histo4.png)](https://www.kokoroe.fr/list/competences-humaines/article/l-ere-de-la-chatbot-mania-1236)
+KOKOROE. « L'ère de la chatbot mania... » [en ligne]. In Kokoroe. [s. d.] [consulté le 26 mai 2020]. Disponible sur le Web : <https://www.kokoroe.fr/list/competences-humaines/article/l-ere-de-la-chatbot-mania-1236>
+
+---
+
+[![Image](lesimages/Histo5.png)](https://fr.wikipedia.org/wiki/Chatbot#Historique)
+COLLECTIF. « Chatbot » [en ligne]. In *Wikipédia*. Mis à jour le 19 mai 2020 [consulté le 26 mai 2020]. Disponible sur le Web : <[https://fr.wikipedia.org/wiki/Chatbot](https://fr.wikipedia.org/wiki/Chatbot)>

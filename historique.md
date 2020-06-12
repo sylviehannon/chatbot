@@ -12,6 +12,10 @@
 
 Vous trouverez ici des références concernant l'histoire des chatbots, des premiers prototypes aux modèles plus avancés d'aujourd'hui.
 
+[![Image](lesimages/Histo6.png)](https://www.sanofi.fr/fr/-/media/Project/One-Sanofi-Web/Websites/Europe/Sanofi-FR/Newsroom/nos-publications/Livre-blanc-BOT-V03_BD.pdf)
+
+FRANCE. SANOFI. « Les chatbots en santé » [en ligne]. In Sanofi. *Chatbot médical : défis techniques, enjeux éthiques*. Publié en juin 2019 [consulté le 26 mai 2020]. Disponible sur le Web : <[https://www.sanofi.fr/fr/-/media/Project/One-Sanofi-Web/Websites/Europe/Sanofi-FR/Newsroom/nos-publications/Livre-blanc-BOT-V03_BD.pdf](https://www.sanofi.fr/fr/-/media/Project/One-Sanofi-Web/Websites/Europe/Sanofi-FR/Newsroom/nos-publications/Livre-blanc-BOT-V03_BD.pdf)>
+
 [![Image](lesimages/Histo1.png)](http://www.mychatbotagency.com/blog/histoire-chatbots/)
 [![Image](lesimages/Histo2.png)](http://www.mychatbotagency.com/blog/histoire-chatbots/)
 [![Image](lesimages/Histo3.png)](http://www.mychatbotagency.com/blog/histoire-chatbots/)

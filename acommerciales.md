@@ -12,6 +12,9 @@
 
 L'une des premières applications à laquelle on pense, concernant les chatbots, c'est bien évidemment l'utilisation commerciales : nous avons déjà tous vu les eptites bulles de discussion automatiques apparaître dans un coin de notre écran durant des séances de shopping en ligne. Mais les chabots commerciaux ne se limitent pas à cela...
 
+[![Image](lesimages/Comm1.png)](https://www.digitaweb.com/blog/chatbot-exemple)
+HENRY, Clémentine-Lou. « 7 exemples de Chatbots innovants » [en ligne]. In *DigitaWeb*. [s. d.] [consulté le 28 mai 2020]. Disponible sur le Web : <[https://www.digitaweb.com/blog/chatbot-exemple](https://www.digitaweb.com/blog/chatbot-exemple)>
+
 [![Image](lesimages/uti1.png)](https://www.conversationnel.fr/chatbot/quels-sont-les-differents-types-de-chatbots/)
 [![Image](lesimages/uti2.png)](https://www.conversationnel.fr/chatbot/quels-sont-les-differents-types-de-chatbots/)
 [![Image](lesimages/uti3.png)](https://www.conversationnel.fr/chatbot/quels-sont-les-differents-types-de-chatbots/)

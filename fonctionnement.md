@@ -6,7 +6,7 @@
       1. [Commerciales](acommerciales.md)
       2. [Médicales](amedicales.md)
       3. [Dans la vie quotidienne](aquoti.md)
-      4. [Dans la fiction](afictions.md)
+      4. [Divertissement et jeux](afictions.md)
       
 ## Les chatbots : fonctionnement
 

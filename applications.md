@@ -29,6 +29,6 @@ Plus d'informations sur les [applications commerciales](amedicales.md) des chatb
 
 Plus d'informations sur les [applications dans la vie quotidienne](aquoti.md) des chatbots
 
-## Utilisations dans la fiction
+## Utilisations dans le domaine du divertissement
 
-Plus d'informations sur la [fiction](afictions.md) des chatbots
+Plus d'informations sur les [applications dans le domaine du divertissement et des jeux](afictions.md)

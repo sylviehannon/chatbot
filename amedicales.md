@@ -8,7 +8,7 @@
       3. [Dans la vie quotidienne](aquoti.md)
       4. [Dans la fiction](afictions.md)
 
-## Les chatbots : utilisations dans le domaine médicale
+## Les chatbots : utilisations dans le domaine médical
 
 [![Image](lesimages/Medi1.png)](https://www.sanofi.fr/fr/-/media/Project/One-Sanofi-Web/Websites/Europe/Sanofi-FR/Newsroom/nos-publications/Livre-blanc-BOT-V03_BD.pdf)
 

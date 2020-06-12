@@ -16,4 +16,5 @@ Bonne navigation !
 4. [Applications](applications.md)
       1. [Commerciales](acommerciales.md)
       2. [Médicales](amedicales.md)
-      3. [Fictionnelles](afictions.md)
+      3. [Dans la vie quotidienne](aquoti.md)
+      4. [Dans la fiction](afictions.md)

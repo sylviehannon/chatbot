@@ -6,7 +6,7 @@
       1. [Commerciales](acommerciales.md)
       2. [Médicales](amedicales.md)
       3. **Dans la vie quotidienne**
-      4. [Dans la fiction](afictions.md)
+      4. [Divertissement et jeux](afictions.md)
 
 ## Les chatbots : utilisations dans la vie quotidienne
 

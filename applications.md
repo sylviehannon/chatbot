@@ -7,3 +7,6 @@
       2. [Médicales](amedicales.md)
       3. [Dans la vie quotidienne](aquoti.md)
       4. [Dans la fiction](afictions.md)
+
+## Les chatbots : divers types d'application
+

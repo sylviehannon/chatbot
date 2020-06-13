@@ -24,7 +24,7 @@ MY CHATBOT AGENCY « L'Histoire des Chatbots » [en ligne]. In *My chatbot agenc
 ---
 
 [![Image](lesimages/Histo4.png)](https://www.kokoroe.fr/list/competences-humaines/article/l-ere-de-la-chatbot-mania-1236)
-KOKOROE. « L'ère de la chatbot mania... » [en ligne]. In Kokoroe. [s. d.] [consulté le 26 mai 2020]. Disponible sur le Web : <https://www.kokoroe.fr/list/competences-humaines/article/l-ere-de-la-chatbot-mania-1236>
+KOKOROE. « L'ère de la chatbot mania... » [en ligne]. In Kokoroe. [s. d.] [consulté le 26 mai 2020]. Disponible sur le Web : <[https://www.kokoroe.fr/list/competences-humaines/article/l-ere-de-la-chatbot-mania-1236](https://www.kokoroe.fr/list/competences-humaines/article/l-ere-de-la-chatbot-mania-1236)>
 
 ---
 

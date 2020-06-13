@@ -28,8 +28,6 @@ COLLECTIF. « Test de Turing » [en ligne]. In *Wikipédia*. Mis à jour le 29 m
 FRANCE. SANOFI. « Les chatbots en santé » [en ligne]. In Sanofi. *Chatbot médical : défis techniques, enjeux éthiques*. Publié en juin 2019 [consulté le 26 mai 2020]. p. 15. Disponible sur le Web : <[https://www.sanofi.fr/fr/-/media/Project/One-Sanofi-Web/Websites/Europe/Sanofi-FR/Newsroom/nos-publications/Livre-blanc-BOT-V03_BD.pdf](https://www.sanofi.fr/fr/-/media/Project/One-Sanofi-Web/Websites/Europe/Sanofi-FR/Newsroom/nos-publications/Livre-blanc-BOT-V03_BD.pdf)>
 
 [![Image](lesimages/Histo1.png)](http://www.mychatbotagency.com/blog/histoire-chatbots/)
-[![Image](lesimages/Histo2.png)](http://www.mychatbotagency.com/blog/histoire-chatbots/)
-[![Image](lesimages/Histo3.png)](http://www.mychatbotagency.com/blog/histoire-chatbots/)
 MY CHATBOT AGENCY « L'Histoire des Chatbots » [en ligne]. In *My chatbot agency*. Publié le 26 octobre 2018 [consulté le 27 mai 2020]. Disponible sur le Web : <[http://www.mychatbotagency.com/blog/histoire-chatbots/](http://www.mychatbotagency.com/blog/histoire-chatbots/)>
 
 ---

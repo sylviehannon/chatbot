@@ -19,7 +19,7 @@ COLLECTIF. « Chatbot » [en ligne]. In *Wikipédia*. Mis à jour le 19 mai 2020
 ---
 
 [![Image](lesimages/Turing1.png)](https://fr.wikipedia.org/wiki/Test_de_Turing)
-COLLECTIF. « Test de Turing » [en ligne]. In *Wikipédia*. Mis à jour le 29 mai 2020 [consulté le 26 mai 2020]. Disponible sur le Web : <[https://fr.wikipedia.org/wiki/Test_de_Turing](https://fr.wikipedia.org/wiki/Test_de_Turing)>
+COLLECTIF. « Test de Turing » [en ligne]. In *Wikipédia*. Mis à jour le 29 mai 2020 [consulté le 10 juin 2020]. Disponible sur le Web : <[https://fr.wikipedia.org/wiki/Test_de_Turing](https://fr.wikipedia.org/wiki/Test_de_Turing)>
 
 ---
 
